@@ -42,7 +42,7 @@ Create 2 directorys and 2 files
     
 4).Show Compressed Files (list)
 
-  tar tzvf files.tar.gz
+    tar tzvf files.tar.gz
   
 5).compressed file1, file2, dir1,dir2 ,(all)
 
@@ -52,9 +52,11 @@ Create 2 directorys and 2 files
 -----------------------------------------------------------------------------------
 # bz2
 
-tar cjvf - > create
-tar tjvf - > show list
-tar zjvf - > unzip
+    tar cjvf - > create
+
+    tar tjvf - > show list
+
+    tar zjvf - > unzip
   
 
 
